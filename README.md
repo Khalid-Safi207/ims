@@ -1,6 +1,6 @@
 # Inventory Management System (IMS)
 
-![IMS Screenshot](screenshots/index.png)
+![IMS Screenshot](./screenshots/index.png)
 
 ## Overview
 
