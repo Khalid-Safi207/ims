@@ -152,7 +152,7 @@ All actions communicate with `productApi.php` using **JSON requests and response
 
 **Khalid Safi**  
 - GitHub: [Khalid-Safi207](https://github.com/Khalid-Safi207)  
-- Email: your-email@example.com  
+- Email:  khalidsafidos@gmail.com 
 
 ---
 
